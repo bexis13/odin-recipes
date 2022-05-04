@@ -1,4 +1,9 @@
 body{
-    background-color: #00ffff;
-    color: #800080;
+    background-color: #c5f5f5;
+    color: #050000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: pink;
 }
